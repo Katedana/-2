@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\ТП\ПродКорз\ПродКорз\bin\Debug\ПродКорз.exe.config
+C:\Users\1\Desktop\ТП\ПродКорз\ПродКорз\bin\Debug\ПродКорз.exe
+C:\Users\1\Desktop\ТП\ПродКорз\ПродКорз\bin\Debug\ПродКорз.pdb
+C:\Users\1\Desktop\ТП\ПродКорз\ПродКорз\obj\Debug\ПродКорз.csprojAssemblyReference.cache
+C:\Users\1\Desktop\ТП\ПродКорз\ПродКорз\obj\Debug\MainWindow.g.cs
+C:\Users\1\Desktop\ТП\ПродКорз\ПродКорз\obj\Debug\App.g.cs
+C:\Users\1\Desktop\ТП\ПродКорз\ПродКорз\obj\Debug\ПродКорз_MarkupCompile.cache
+C:\Users\1\Desktop\ТП\ПродКорз\ПродКорз\obj\Debug\ПродКорз_MarkupCompile.lref
+C:\Users\1\Desktop\ТП\ПродКорз\ПродКорз\obj\Debug\MainWindow.baml
+C:\Users\1\Desktop\ТП\ПродКорз\ПродКорз\obj\Debug\ПродКорз.g.resources
+C:\Users\1\Desktop\ТП\ПродКорз\ПродКорз\obj\Debug\ПродКорз.Properties.Resources.resources
+C:\Users\1\Desktop\ТП\ПродКорз\ПродКорз\obj\Debug\ПродКорз.csproj.GenerateResource.cache
+C:\Users\1\Desktop\ТП\ПродКорз\ПродКорз\obj\Debug\ПродКорз.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\ТП\ПродКорз\ПродКорз\obj\Debug\ПродКорз.exe
+C:\Users\1\Desktop\ТП\ПродКорз\ПродКорз\obj\Debug\ПродКорз.pdb
